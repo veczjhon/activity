@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(173, 173, 237);
+    background-position: center;
+   background-size: cover;
+   min-height: 109vh;
+   width: 100%;  
+}
+.con{
+    color: antiquewhite;
+    font-size: 100px;
+    text-align: center;
+    font: Arial;
+}
+.date{
+    color: antiquewhite;
+    font-size:100px ;
+}
